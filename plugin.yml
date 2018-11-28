@@ -1,0 +1,5 @@
+name: FlyMessage
+main: FlyMesaage/main
+api: 3.3.2,4.0.0
+version: 1.1.0
+owner: narapon
